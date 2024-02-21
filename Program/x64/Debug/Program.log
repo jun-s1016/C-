@@ -1,23 +1,2 @@
-﻿  Goliath.cpp
-  Mechanic.cpp
-C:\Users\zzang\OneDrive\바탕 화면\C-pp\Program\Goliath.cpp(9,1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
-C:\Users\zzang\OneDrive\바탕 화면\C-pp\Program\Goliath.cpp(9,1): error C2556: 'int Goliath::Move(void)': 오버로드된 함수가 'void Goliath::Move(void)'과(와) 반환 형식만 다릅니다.
-  C:\Users\zzang\OneDrive\바탕 화면\C-pp\Program\Goliath.h(8,7):
-  'Goliath::Move' 선언을 참조하십시오.
-  
-C:\Users\zzang\OneDrive\바탕 화면\C-pp\Program\Goliath.cpp(8,12): error C2371: 'Goliath::Move': 재정의. 기본 형식이 다릅니다.
-  C:\Users\zzang\OneDrive\바탕 화면\C-pp\Program\Goliath.h(8,7):
-  'Goliath::Move' 선언을 참조하십시오.
-  
-C:\Users\zzang\OneDrive\바탕 화면\C-pp\Program\Goliath.cpp(8,12): error C2084: 'void Goliath::Move(void)' 함수에 이미 본문이 있습니다.
-  C:\Users\zzang\OneDrive\바탕 화면\C-pp\Program\Goliath.h(8,7):
-  'Move'의 이전 정의를 참조하십시오.
-  
-  Program.cpp
-C:\Users\zzang\OneDrive\바탕 화면\C-pp\Program\Program.cpp(62,11): warning C4930: 'Mechanic Siege_Tank(void)': 프로토타입 함수가 호출되지 않았습니다. 변수 정의로 사용하려고 한 것은 아닌지 확인하십시오.
-C:\Users\zzang\OneDrive\바탕 화면\C-pp\Program\Program.cpp(63,11): warning C4930: 'Mechanic Goliath(void)': 프로토타입 함수가 호출되지 않았습니다. 변수 정의로 사용하려고 한 것은 아닌지 확인하십시오.
-C:\Users\zzang\OneDrive\바탕 화면\C-pp\Program\Program.cpp(59,11): warning C4930: 'Mechanic mechanic(void)': 프로토타입 함수가 호출되지 않았습니다. 변수 정의로 사용하려고 한 것은 아닌지 확인하십시오.
-C:\Users\zzang\OneDrive\바탕 화면\C-pp\Program\Program.cpp(61,11): warning C4930: 'Mechanic Vulture(void)': 프로토타입 함수가 호출되지 않았습니다. 변수 정의로 사용하려고 한 것은 아닌지 확인하십시오.
-  Siege_Tank.cpp
-  Vulture.cpp
-  코드를 생성하고 있습니다...
+﻿  Program.cpp
+  Program.vcxproj -> C:\Users\zzang\OneDrive\바탕 화면\C-pp\Program\x64\Debug\Program.exe
