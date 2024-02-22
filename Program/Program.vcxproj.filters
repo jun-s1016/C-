@@ -18,30 +18,36 @@
     <ClCompile Include="Program.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Siege_Tank.cpp">
+    <ClCompile Include="Zerg.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Mechanic.cpp">
+    <ClCompile Include="Zergling.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Goliath.cpp">
+    <ClCompile Include="Hydralisk.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Vulture.cpp">
+    <ClCompile Include="Lurker.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Beacon.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Vulture.h">
+    <ClInclude Include="Zerg.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Siege_Tank.h">
+    <ClInclude Include="Zergling.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Mechanic.h">
+    <ClInclude Include="Hydralisk.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Goliath.h">
+    <ClInclude Include="Lurker.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Beacon.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

@@ -5,7 +5,7 @@ class Siege_Tank : public Mechanic
 {
 public:
 	Siege_Tank(); 
-	~Siege_Tank();
+	virtual~Siege_Tank();
 	void Move();
 	
 };

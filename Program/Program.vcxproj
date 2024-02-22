@@ -127,17 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Goliath.cpp" />
-    <ClCompile Include="Mechanic.cpp" />
+    <ClCompile Include="Beacon.cpp" />
+    <ClCompile Include="Hydralisk.cpp" />
+    <ClCompile Include="Lurker.cpp" />
     <ClCompile Include="Program.cpp" />
-    <ClCompile Include="Siege_Tank.cpp" />
-    <ClCompile Include="Vulture.cpp" />
+    <ClCompile Include="Zerg.cpp" />
+    <ClCompile Include="Zergling.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Goliath.h" />
-    <ClInclude Include="Mechanic.h" />
-    <ClInclude Include="Siege_Tank.h" />
-    <ClInclude Include="Vulture.h" />
+    <ClInclude Include="Beacon.h" />
+    <ClInclude Include="Hydralisk.h" />
+    <ClInclude Include="Lurker.h" />
+    <ClInclude Include="Zerg.h" />
+    <ClInclude Include="Zergling.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
