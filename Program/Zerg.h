@@ -9,9 +9,14 @@ protected:
 	int health;
 	int maxHP;
 public:
-	void Recovery();
+	Zerg();
+	~Zerg();
+
 	void SetHP(int health);
 	int GetHP();
+
+	virtual void Recovery();
+
 
 };
 

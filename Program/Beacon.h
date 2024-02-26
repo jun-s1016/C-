@@ -3,6 +3,7 @@
 
 class Beacon
 {
-	void Trigger(Zerg * zerg);
+public :
+	virtual void Trigger(Zerg * zerg);
 };
 
