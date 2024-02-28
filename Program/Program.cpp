@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-	int data = 50;
+	int data = 100;
 
-	int count = 99;
+	int count = 1;
 	return 0;
 }
